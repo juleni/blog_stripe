@@ -1,0 +1,12 @@
+How to make a blog with Next.js, Strapi and GraphQL in 2022
+===========================================================
+https://www.youtube.com/watch?v=jF4_yiO3HVc  48:26
+
+BLOG STRAPI: juleni.dev@gmail.com/jul3n1-BLOG
+http://localhost:1337/admin
+
+To access the server ⚡️, go to:
+http://localhost:1337
+http://localhost:1337/api/blog-posts
+
+npx create-strapi-app@latest my-project --quickstart
